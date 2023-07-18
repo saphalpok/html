@@ -4,3 +4,24 @@
 div{
     background-color: blue;
 }
+
+.sticky 
+{
+position:sticky;
+background-color:green;
+border:2px solid
+} 
+.absolute
+{
+  position: absolute;
+  top: auto;
+  right: auto;
+  
+
+
+}
+.box{
+    width: 200px;
+    height: 65px;
+    background-color: coral;
+}
